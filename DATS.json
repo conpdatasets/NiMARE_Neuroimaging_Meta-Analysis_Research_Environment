@@ -80,15 +80,16 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://zenodo.org/record/6624795", 
+                "landingPage": "https://zenodo.org/record/6624795",
                 "authorizations": [
-                      {
+                    {
                         "value": "public"
-                      }
-                ]
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/6624795/files/Dataset_10.55458_NeuroLibre_00007_0195c8.zip?download=1"
             },
             "formats": [
-                "N/A"
+                "ZIP"
             ]
         }
     ],
